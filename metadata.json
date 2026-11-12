@@ -1,0 +1,6 @@
+{
+  "name": "Fake Product Detection Management System",
+  "description": "Anti-counterfeiting verification platform and complete Java Servlets, JSP, JDBC, MySQL, and Tomcat college mini-project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
